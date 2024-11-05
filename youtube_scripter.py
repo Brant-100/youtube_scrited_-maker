@@ -18,7 +18,7 @@ def get_youtube_transcript(video_url):
         return None
 
 # Example Usage
-video_url = "https://www.youtube.com/watch?v=HdEr6edDdeA"
+video_url = "Your Youtube link Here"
 transcript_text = get_youtube_transcript(video_url)
 
 if transcript_text:
